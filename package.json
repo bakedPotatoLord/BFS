@@ -1,0 +1,27 @@
+{
+  "name": "bfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakedPotatoLord/BFS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakedPotatoLord/BFS/issues"
+  },
+  "homepage": "https://github.com/bakedPotatoLord/BFS#readme",
+  "dependencies": {
+    "ts-jest": "^29.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "ts-node": "^10.9.1"
+  }
+}
